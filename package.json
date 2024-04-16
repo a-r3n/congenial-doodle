@@ -1,0 +1,36 @@
+{
+    "name": "portfolio-website",
+    "version": "1.0.0",
+    "description": "A personal portfolio website built with React to showcase my work.",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "react-router-dom": "^6.3.0"
+    },
+    "devDependencies": {
+      "react-scripts": "5.0.0"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/yourusername/portfolio-website.git"
+    },
+    "keywords": [
+      "portfolio",
+      "react",
+      "web development"
+    ],
+    "author": "Your Name",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/yourusername/portfolio-website/issues"
+    },
+    "homepage": "https://github.com/yourusername/portfolio-website#readme"
+  }
+  
