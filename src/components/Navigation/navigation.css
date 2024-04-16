@@ -1,0 +1,9 @@
+.navigation a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.navigation .active {
+    text-decoration: underline;
+}
